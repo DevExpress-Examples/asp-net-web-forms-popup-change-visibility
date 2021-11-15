@@ -10,7 +10,7 @@
 
 This example demonstrates how to change the popup control's visibility at the server side. Use this approach when you need to process data on the server before users open and/or after they close a popup window. Otherwise, we recommend to open and hide the popup window at the client to avoid a turn around to the server.
 
-![Change a popup window visibility at the server](change-a-popup-window-visibility-at-the-server.png)
+![Change the visibility of a popup window at the server](change-the-visibility-of-popup-window.png)
 
 ## Overview
 
@@ -38,3 +38,4 @@ In this example, the popup control has a single window that contains a textbox a
 ## More Examples
 
 - [Popup Control for ASP.NET Web Forms - How to add buttons to a modal popup window](https://www.devexpress.com/Support/Center/p/E493)
+- [Popup Control for ASP.NET Web Forms - How to show the popup control](https://github.com/DevExpress-Examples/how-to-show-the-aspxpopupcontrol-e55)
