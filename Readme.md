@@ -25,8 +25,8 @@ In this example, the popup control has a single window that contains a textbox a
 
 ## Files to Look At
 
-* [Default.aspx](./CS/PopupInputFormServerSide/Default.aspx)
-* [Default.aspx.cs](./CS/PopupInputFormServerSide/Default.aspx.cs) / [Default.aspx.vb](./VB/PopupInputFormServerSide/Default.aspx.vb)
+* [Default.aspx](./CS/PopupInputFormServerSide/Default.aspx) (VB: [Default.aspx](./VB/PopupInputFormServerSide/Default.aspx))
+* [Default.aspx.cs](./CS/PopupInputFormServerSide/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/PopupInputFormServerSide/Default.aspx.vb))
 
 <!-- default file list end -->
 
@@ -38,4 +38,4 @@ In this example, the popup control has a single window that contains a textbox a
 ## More Examples
 
 - [Popup Control for ASP.NET Web Forms - How to add buttons to a modal popup window](https://www.devexpress.com/Support/Center/p/E493)
-- [Popup Control for ASP.NET Web Forms - How to show the popup control](https://github.com/DevExpress-Examples/how-to-show-the-aspxpopupcontrol-e55)
+- [Popup Control for ASP.NET Web Forms - How to show the popup control](https://supportcenter.devexpress.com/internal/ticket/details/E55)
