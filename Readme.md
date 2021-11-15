@@ -10,6 +10,8 @@
 
 This example demonstrates how to change the popup control's visibility at the server side. Use this approach when you need to process data on the server before users open and/or after they close a popup window. Otherwise, we recommend to open and hide the popup window at the client to avoid a turn around to the server.
 
+![Change a popup window visibility at the server](change-a-popup-window-visibility-at-the-server.png)
+
 ## Overview
 
 Set the [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl)'s server-side [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.ShowOnPageLoad) property value to `true` to display the default popup window at the client. If the popup control has multiple popup windows, use a [PopupWindow](https://docs.devexpress.com/AspNet/DevExpress.Web.PopupWindow)'s server-side [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.PopupWindow.ShowOnPageLoad) property to specify visibility of this window at the client.
