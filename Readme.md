@@ -19,7 +19,7 @@ Set the [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASP
 In this example, the popup control has a single window that contains a textbox and the **OK** and **Cancel** buttons. The control updates its [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.ShowOnPageLoad) property value as follows:
 
 * Sets to `true` after you click the **Edit...** button on a form
-* Sets to `false` after you click the **OK** button on the popup window
+* Sets to `false` after you click the **OK** button on the pop-up window
 
 <!-- default file list -->
 
