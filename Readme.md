@@ -3,20 +3,20 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E499)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Popup Control for ASP.NET Web Forms - How to show and hide a popup window at the server side
+# Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e499/)**
 <!-- run online end -->
 
-This example demonstrates how to change the popup control's visibility at the server side. Use this approach when you need to process data on the server before users open and/or after they close a popup window. Otherwise, we recommend to open and hide the popup window at the client to avoid a turn around to the server.
+This example demonstrates how to change the Popup Control's visibility on the server. Use this approach to process data on the server before users open and/or after they close a pop-up window. Otherwise, we recommend that you open and hide the pop-up window on the client to reduce server round trips.
 
-![Change the visibility of a popup window at the server](change-the-visibility-of-popup-window.png)
+![Change the visibility of a pop-up window on the server](change-the-visibility-of-popup-window.png)
 
 ## Overview
 
 Set the [ASPxPopupControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControl)'s server-side [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.ShowOnPageLoad) property value to `true` to display the default popup window at the client. If the popup control has multiple popup windows, use a [PopupWindow](https://docs.devexpress.com/AspNet/DevExpress.Web.PopupWindow)'s server-side [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.PopupWindow.ShowOnPageLoad) property to specify visibility of this window at the client.
 
-In this example, the popup control has a single window that contains a textbox and the **OK** and **Cancel** buttons. The control updates its [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.ShowOnPageLoad) property value as follows:
+In this example, the Popup Control has a single window that contains a textbox and the **OK** and **Cancel** buttons. The control updates its [ShowOnPageLoad](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxPopupControlBase.ShowOnPageLoad) property value as follows:
 
 * Sets to `true` after you click the **Edit...** button on a form
 * Sets to `false` after you click the **OK** button on the pop-up window
