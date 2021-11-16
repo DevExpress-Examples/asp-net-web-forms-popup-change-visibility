@@ -37,5 +37,5 @@ In this example, the popup control has a single window that contains a textbox a
 
 ## More Examples
 
-- [Popup Control for ASP.NET Web Forms - How to add buttons to a modal popup window](https://www.devexpress.com/Support/Center/p/E493)
+- [Popup Control for ASP.NET Web Forms - How to add buttons to a popup window](https://www.devexpress.com/Support/Center/p/E493)
 - [Popup Control for ASP.NET Web Forms - How to show the popup control](https://supportcenter.devexpress.com/internal/ticket/details/E55)
