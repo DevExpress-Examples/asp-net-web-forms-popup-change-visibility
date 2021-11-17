@@ -35,7 +35,7 @@ namespace PopupInputFormServerSide {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txtMain;
+        protected global::DevExpress.Web.ASPxTextBox txtMain;
         
         /// <summary>
         /// btnShowPopup control.
@@ -44,7 +44,7 @@ namespace PopupInputFormServerSide {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnShowPopup;
+        protected global::DevExpress.Web.ASPxButton btnShowPopup;
         
         /// <summary>
         /// ASPxPopupControl1 control.
@@ -53,7 +53,7 @@ namespace PopupInputFormServerSide {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl ASPxPopupControl1;
+        protected global::DevExpress.Web.ASPxPopupControl ASPxPopupControl1;
         
         /// <summary>
         /// txtPopup control.
@@ -62,7 +62,7 @@ namespace PopupInputFormServerSide {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txtPopup;
+        protected global::DevExpress.Web.ASPxTextBox txtPopup;
         
         /// <summary>
         /// btnOK control.
@@ -71,7 +71,7 @@ namespace PopupInputFormServerSide {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnOK;
+        protected global::DevExpress.Web.ASPxButton btnOK;
         
         /// <summary>
         /// btnCancel control.
@@ -80,6 +80,6 @@ namespace PopupInputFormServerSide {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnCancel;
+        protected global::DevExpress.Web.ASPxButton btnCancel;
     }
 }
