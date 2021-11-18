@@ -38,7 +38,7 @@ Namespace PopupInputFormServerSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected txtMain As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+		Protected txtMain As Global.DevExpress.Web.ASPxTextBox
 
 		''' <summary>
 		''' btnShowPopup control.
@@ -47,7 +47,7 @@ Namespace PopupInputFormServerSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnShowPopup As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnShowPopup As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' ASPxPopupControl1 control.
@@ -56,7 +56,7 @@ Namespace PopupInputFormServerSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxPopupControl1 As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+		Protected ASPxPopupControl1 As Global.DevExpress.Web.ASPxPopupControl
 
 		''' <summary>
 		''' txtPopup control.
@@ -65,7 +65,7 @@ Namespace PopupInputFormServerSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected txtPopup As Global.DevExpress.Web.ASPxEditors.ASPxTextBox
+		Protected txtPopup As Global.DevExpress.Web.ASPxTextBox
 
 		''' <summary>
 		''' btnOK control.
@@ -74,7 +74,7 @@ Namespace PopupInputFormServerSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnOK As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnOK As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' btnCancel control.
@@ -83,6 +83,6 @@ Namespace PopupInputFormServerSide
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btnCancel As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btnCancel As Global.DevExpress.Web.ASPxButton
 	End Class
 End Namespace
