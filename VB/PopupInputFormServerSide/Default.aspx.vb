@@ -21,7 +21,7 @@ Namespace PopupInputFormServerSide
 			ASPxPopupControl1.ShowOnPageLoad = True
 		End Sub
 		Protected Sub btnOK_Click(ByVal sender As Object, ByVal e As EventArgs)
-			' Type your code here to process the popup window's data at the server
+			' Add your code here to process the pop-up window's data on the server
 			txtMain.Text = txtPopup.Text
 			ASPxPopupControl1.ShowOnPageLoad = False
 		End Sub
