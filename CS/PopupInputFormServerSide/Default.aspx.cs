@@ -19,7 +19,7 @@ namespace PopupInputFormServerSide {
             ASPxPopupControl1.ShowOnPageLoad = true;
         }
         protected void btnOK_Click(object sender, EventArgs e) {
-            // TODO: your code is here to process the popup window's data at the server
+            // Add your code here to process the pop-up window's data on the server
             txtMain.Text = txtPopup.Text;
             ASPxPopupControl1.ShowOnPageLoad = false;
         }
