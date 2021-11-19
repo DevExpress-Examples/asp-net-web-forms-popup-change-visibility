@@ -4,6 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/128565164/)**
+<!-- run online end -->
 
 This example demonstrates how to change the Popup Control's visibility on the server. Use this approach to process data on the server before users open and/or after they close a pop-up window. Otherwise, we recommend that you open and hide the pop-up window on the client to reduce server round trips.
 
