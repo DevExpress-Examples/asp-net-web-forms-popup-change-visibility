@@ -38,7 +38,7 @@ In this example, the Popup Control has a single window that contains a textbox a
 - [Popup Control for ASP.NET Web Forms - How to add buttons to a popup window](https://www.devexpress.com/Support/Center/p/E493)
 - [Popup Control for ASP.NET Web Forms - How to show the popup control](https://supportcenter.devexpress.com/internal/ticket/details/E55)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-change-visibility&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-change-visibility&~~~was_helpful=no)
 
